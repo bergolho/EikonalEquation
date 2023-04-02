@@ -1,0 +1,7 @@
+- Add input parameters
+	- Source point
+	- Multiple sinks points
+- Separate the program in parts
+- Add visualization functions to Paraview
+- Test and deploy in 2d grid first
+
